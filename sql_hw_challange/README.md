@@ -6,6 +6,7 @@
 
 - Includes QuickDBD image (.png) and .sql file
 
+![]([1]Solution_QuickDBD/QuickDBD-Free_Diagram.png)
 
 ## [PART 2] - Solution - Data Analysis
 
